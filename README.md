@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Ganesh Sonawane</h1>
 
 <h3 align="center">
-  Computer Science & Design Student • Full-Stack Developer • Problem Solver
+  Computer Science & Design Student | Full-Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
@@ -23,62 +23,71 @@
 
 I'm a **Computer Science & Design student at Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**, passionate about software development, problem solving, and building practical real-world applications.
 
-I completed my **Diploma in Computer Engineering from MET Bhujbal Knowledge City, Nashik**, where I built a strong foundation in programming, web development, databases, and software development.
+I completed my **Diploma in Computer Engineering from MET Bhujbal Knowledge City, Nashik**, where I developed a strong foundation in programming, web development, databases, and software development.
 
-Currently, I'm focused on improving my skills in **Full-Stack Development, Data Structures & Algorithms, Database Management, and Artificial Intelligence & Machine Learning**.
+Currently, I'm focusing on **Full-Stack Development, Data Structures & Algorithms, Database Management, and Artificial Intelligence & Machine Learning**.
 
 I enjoy turning ideas into working applications, exploring new technologies, and continuously improving my problem-solving skills.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### 🎓 B.Tech — Computer Science & Design
+### B.Tech — Computer Science & Design
 
 **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
 
 `2025 – Present`
 
-**Current CGPA: 8.5 / 10**
+📊 **Current CGPA: 8.5 / 10**
 
 ---
 
-### 🎓 Diploma — Computer Engineering
+### Diploma — Computer Engineering
 
 **MET Bhujbal Knowledge City, Nashik**
 
 `2022 – 2025`
 
-**Percentage: 89.09%**
+📊 **Percentage: 89.09%**
 
 ---
 
-## 💼 Internship Experience
+# 💼 Internship Experience
 
-### Web Development Intern — NPIT Solution
+## Web Development Intern — NPIT Solution
 
 **June 2024 – July 2024**
 
-During my internship, I worked on **Eatery Elevate**, an online restaurant platform.
+During my internship at **NPIT Solution**, I worked on the **Eatery Elevate** project and gained practical experience in web development, database integration, backend functionality, and real-world software development.
 
-### What I worked with
+### 🍽️ Eatery Elevate
 
-* Frontend web development
-* Backend functionality
-* Database integration
-* Dynamic web pages
-* Restaurant-related workflows
-
-### Technologies
+An online restaurant platform developed using:
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+### 🔹 Key Contributions
+
+* Developed and enhanced web application features
+* Worked on frontend and backend functionality
+* Integrated MySQL database
+* Implemented dynamic web functionality
+* Contributed to the overall project development
+* Applied software development concepts in a real-world environment
+
+### 🏆 Internship Achievement
+
+🥈 **2nd Prize — Internship Performance & Project**
+
+Recognized with **2nd Prize at NPIT Solution** for internship performance and project work during the internship period.
 
 ---
 
 # 🚀 Featured Projects
 
 <p align="center">
-  <i>Real-world applications and projects I've built while learning and developing my skills.</i>
+  <i>Projects that demonstrate my development skills and practical problem-solving experience.</i>
 </p>
 
 ---
@@ -87,29 +96,30 @@ During my internship, I worked on **Eatery Elevate**, an online restaurant platf
 
 ### 🌐 Live Production Website
 
-A modern poultry-farm business website designed to provide information about poultry products, birds, training programs, services, and customer enquiries.
+A modern poultry-farm business website developed to showcase poultry products, birds, training programs, services, and customer enquiries through a professional and responsive web experience.
 
 ### ✨ Features
 
-* 🥚 Poultry product showcase
-* 🐓 Poultry bird information
-* 📦 Product availability and pricing
-* 💬 WhatsApp enquiry / ordering flow
+* 🐓 Poultry bird & product showcase
+* 🥚 Product information and pricing
+* 📦 Product availability
+* 💬 WhatsApp enquiry & ordering
 * 🎓 Poultry farming training workshops
 * 🖼️ Farm gallery
 * ⭐ Customer testimonials
-* ❓ Frequently Asked Questions
-* 📱 Responsive user interface
+* ❓ FAQ section
+* 📱 Responsive design
 * 🌐 Production deployment
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
-`React` `JavaScript` `HTML` `CSS` `Vite` `Vercel`
+`React` `TypeScript` `CSS` `Vite` `Vercel`
 
 <p>
   <a href="https://poultry-farm-business.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Poultry Farm Live Demo"/>
   </a>
+
   <a href="https://github.com/shubh6070/poultry-farm-business" target="_blank">
     <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" alt="Poultry Farm Source Code"/>
   </a>
@@ -132,7 +142,7 @@ A web-based laboratory management project focused on organizing laboratory workf
 * 🗄️ Database-driven architecture
 * ☁️ Cloud deployment
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `React` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API` `Render`
 
@@ -167,7 +177,7 @@ An online restaurant platform developed during my Web Development Internship at 
 
 ## 🎓 Student Result Management System
 
-A web-based application designed to manage student results and generate printable result documents.
+A web-based application designed to manage student result information and generate printable result documents.
 
 ### ✨ Features
 
@@ -204,7 +214,7 @@ A software project designed to manage pizza orders and billing operations.
 ## 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,typescript" alt="Frontend Technologies"/>
 </p>
 
 ## ⚙️ Backend Development
@@ -222,38 +232,14 @@ A software project designed to manage pizza orders and billing operations.
 ## 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman,vercel" alt="Development Tools"/>
 </p>
-
----
-
-# 🤖 AI & Machine Learning
-
-I'm currently building my understanding of **Artificial Intelligence, Machine Learning, and Deep Learning**.
-
-### Topics I'm learning and practicing
-
-* Machine Learning fundamentals
-* Linear Regression
-* K-Nearest Neighbors
-* Support Vector Machines
-* Naive Bayes
-* Decision Trees
-* CNN
-* RNN
-* Sequence Modelling
-* Deep Learning
-* Model evaluation and classification
-
-### Technologies
-
-`Python` `Pandas` `TensorFlow` `Machine Learning` `Deep Learning`
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-I regularly practice **DSA and problem solving** to improve my algorithmic thinking and prepare for software engineering interviews.
+I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for software engineering interviews.
 
 ### Topics
 
@@ -273,7 +259,7 @@ Graphs
 Dynamic Programming
 ```
 
-### Problems I've Practiced
+### Problems Practiced
 
 * Two Sum
 * Container With Most Water
@@ -289,9 +275,32 @@ Dynamic Programming
 
 ---
 
-# 📚 Computer Science
+# 🤖 AI & Machine Learning
 
-I'm continuously strengthening my knowledge of:
+Currently building my knowledge of **Artificial Intelligence, Machine Learning, and Deep Learning**.
+
+### Learning & Practicing
+
+* Machine Learning fundamentals
+* Linear Regression
+* K-Nearest Neighbors
+* Support Vector Machines
+* Naive Bayes
+* Decision Trees
+* CNN
+* RNN
+* Sequence Modelling
+* Deep Learning
+
+### Technologies
+
+`Python` `Pandas` `TensorFlow` `Machine Learning` `Deep Learning`
+
+---
+
+# 📚 Computer Science Knowledge
+
+Currently strengthening my understanding of:
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -306,21 +315,18 @@ I'm continuously strengthening my knowledge of:
 
 ---
 
-# 🏆 Highlights
+# 🏆 Achievements & Highlights
 
-<p align="center">
-
-| 🎯 | Achievement                                    |
-| -- | ---------------------------------------------- |
-| 🎓 | B.Tech Computer Science & Design — YCCE Nagpur |
-| 📊 | Current B.Tech CGPA — **8.5 / 10**             |
-| 🎓 | Diploma in Computer Engineering — **89.09%**   |
-| 💼 | Web Development Internship — NPIT Solution     |
-| 🚀 | Built and deployed real-world web applications |
-| 🧠 | Active DSA & problem-solving practice          |
-| 🤖 | Currently learning AI, ML & Deep Learning      |
-
-</p>
+| 🏆 | Achievement                                        |
+| -- | -------------------------------------------------- |
+| 🎓 | B.Tech Computer Science & Design — YCCE Nagpur     |
+| 📊 | Current B.Tech CGPA — **8.5 / 10**                 |
+| 🎓 | Diploma in Computer Engineering — **89.09%**       |
+| 💼 | Web Development Internship — NPIT Solution         |
+| 🥈 | **2nd Prize — Internship Performance & Project**   |
+| 🚀 | Developed and deployed real-world web applications |
+| 🧠 | Active Data Structures & Algorithms practice       |
+| 🤖 | Currently learning AI, ML & Deep Learning          |
 
 ---
 
@@ -359,7 +365,7 @@ I'm continuously strengthening my knowledge of:
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -372,7 +378,7 @@ I'm continuously strengthening my knowledge of:
 </a>
 
 <a href="https://poultry-farm-business.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Project-2ea44f?style=for-the-badge" alt="Portfolio Project"/>
+  <img src="https://img.shields.io/badge/🌐%20Featured%20Project-Poultry%20Farm-2ea44f?style=for-the-badge" alt="Featured Project"/>
 </a>
 
 </p>
