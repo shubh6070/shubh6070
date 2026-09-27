@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shubham Ganesh Sonawane</h1>
 
-<h3 align="center">Computer Science & Design Student | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">
+  Computer Science & Design Student • Full-Stack Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-sonawane-b85949284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/shubh6070">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-shubh6070-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  <a href="https://linkedin.com/in/shubham-sonawane-b85949284">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh6070&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -20,223 +23,255 @@
 
 I'm a **Computer Science & Design student at Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**, passionate about software development, problem solving, and building practical real-world applications.
 
-I completed my **Diploma in Computer Engineering from MET Bhujbal Knowledge City, Nashik**, where I developed a strong foundation in programming, web development, databases, and software engineering.
+I completed my **Diploma in Computer Engineering from MET Bhujbal Knowledge City, Nashik**, where I built a strong foundation in programming, web development, databases, and software development.
 
-Currently, I am focusing on:
+Currently, I'm focused on improving my skills in **Full-Stack Development, Data Structures & Algorithms, Database Management, and Artificial Intelligence & Machine Learning**.
 
-* 💻 Full-Stack Web Development
-* 🧠 Data Structures & Algorithms
-* 🚀 Building real-world software projects
-* 🤖 Machine Learning & Deep Learning
-* 🗄️ Database Management
-* 🌱 Learning new technologies and improving my problem-solving skills
+I enjoy turning ideas into working applications, exploring new technologies, and continuously improving my problem-solving skills.
 
 ---
 
 ## 🎓 Education
 
-### B.Tech – Computer Science & Design
+### 🎓 B.Tech — Computer Science & Design
 
 **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
 
 `2025 – Present`
 
-### Diploma – Computer Engineering
+**Current CGPA: 8.5 / 10**
+
+---
+
+### 🎓 Diploma — Computer Engineering
 
 **MET Bhujbal Knowledge City, Nashik**
 
 `2022 – 2025`
 
-**Diploma Percentage: 89.09%**
+**Percentage: 89.09%**
 
 ---
 
-## 💼 Internship
+## 💼 Internship Experience
 
 ### Web Development Intern — NPIT Solution
 
 **June 2024 – July 2024**
 
-#### Project: Eatery Elevate
+During my internship, I worked on **Eatery Elevate**, an online restaurant platform.
 
-Worked on an online restaurant platform using:
+### What I worked with
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
-
-Worked on frontend development, backend functionality, database integration, and application workflows.
-
----
-
-# 🚀 Featured Projects
-
-## 🧪 PathoPro LIMS
-
-A modular **Laboratory Information Management System (LIMS)** designed to manage laboratory operations and workflows.
-
-### Key Areas
-
-* Authentication & Authorization
-* User Management
-* Department Management
-* Patient Management
-* Sample Management
-* Result Management
-* Billing
-* Reports
-* Notification System
-* Security & API Architecture
-
-### Technologies
-
-`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
-
-🔗 **Live Demo:** Coming Soon
-🔗 **Source Code:** Coming Soon
-
----
-
-## 🍽️ Eatery Elevate
-
-An online restaurant platform developed during my internship at NPIT Solution.
-
-### Features
-
-* Restaurant menu management
-* Online food ordering workflow
+* Frontend web development
+* Backend functionality
 * Database integration
-* Backend processing
 * Dynamic web pages
+* Restaurant-related workflows
 
 ### Technologies
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-🔗 **Live Demo:** Coming Soon
-🔗 **Source Code:** Coming Soon
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <i>Real-world applications and projects I've built while learning and developing my skills.</i>
+</p>
 
 ---
 
-## 🌐 Personal Portfolio
+## 🐔 Poultry Farm Business
 
-My personal developer portfolio showcasing my skills, projects, education, experience, and achievements.
+### 🌐 Live Production Website
 
-### Technologies
+A modern poultry-farm business website designed to provide information about poultry products, birds, training programs, services, and customer enquiries.
 
-`React` `JavaScript` `CSS` `Vite`
+### ✨ Features
 
-🔗 **Live Demo:** Coming Soon
-🔗 **Source Code:** Coming Soon
+* 🥚 Poultry product showcase
+* 🐓 Poultry bird information
+* 📦 Product availability and pricing
+* 💬 WhatsApp enquiry / ordering flow
+* 🎓 Poultry farming training workshops
+* 🖼️ Farm gallery
+* ⭐ Customer testimonials
+* ❓ Frequently Asked Questions
+* 📱 Responsive user interface
+* 🌐 Production deployment
+
+### 🛠️ Technologies
+
+`React` `JavaScript` `HTML` `CSS` `Vite` `Vercel`
+
+<p>
+  <a href="https://poultry-farm-business.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Poultry Farm Live Demo"/>
+  </a>
+  <a href="https://github.com/shubh6070/poultry-farm-business" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" alt="Poultry Farm Source Code"/>
+  </a>
+</p>
+
+---
+
+## 🧪 LabNova Cloud
+
+### Laboratory Management Web Application
+
+A web-based laboratory management project focused on organizing laboratory workflows through a centralized digital application.
+
+### ✨ Key Areas
+
+* 🔐 Authentication and user access
+* 🏥 Laboratory workflow management
+* 🗂️ Structured data management
+* 🔌 Backend API integration
+* 🗄️ Database-driven architecture
+* ☁️ Cloud deployment
+
+### 🛠️ Technologies
+
+`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API` `Render`
+
+<p>
+  <a href="https://labnova-cloud.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-LabNova%20Cloud-0A7BFF?style=for-the-badge" alt="LabNova Live Demo"/>
+  </a>
+</p>
+
+---
+
+## 🍽️ Eatery Elevate
+
+### Online Restaurant Platform
+
+An online restaurant platform developed during my Web Development Internship at **NPIT Solution**.
+
+### ✨ Features
+
+* 🍕 Restaurant menu management
+* 🛒 Ordering workflow
+* 🗄️ Database integration
+* ⚙️ Backend functionality
+* 📱 Responsive web interface
+* 🔄 Dynamic content
+
+### 🛠️ Technologies
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 ---
 
 ## 🎓 Student Result Management System
 
-A web-based application for managing student results and generating printable result documents.
+A web-based application designed to manage student results and generate printable result documents.
 
-### Technologies
+### ✨ Features
+
+* Student information management
+* Result management
+* Database integration
+* Result generation
+* Printable PDF documents
+
+### 🛠️ Technologies
 
 `PHP` `MySQL` `HTML` `JavaScript` `TCPDF`
-
-🔗 **Live Demo:** Coming Soon
-🔗 **Source Code:** Coming Soon
 
 ---
 
 ## 🍕 Pizza Ordering & Billing System
 
-A project for managing pizza orders and generating billing information.
+A software project designed to manage pizza orders and billing operations.
 
-### Technologies
+### 🛠️ Technologies
 
 `Java` `MySQL`
-
-🔗 **Source Code:** Coming Soon
 
 ---
 
 # 💻 Technical Skills
 
-### Programming Languages
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" alt="Programming Languages"/>
 </p>
 
-### Frontend Development
+## 🌐 Frontend Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Technologies"/>
 </p>
 
-### Backend Development
+## ⚙️ Backend Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend Technologies"/>
 </p>
 
-### Databases
+## 🗄️ Databases
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
 </p>
 
-### AI / Machine Learning
+## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" alt="Development Tools"/>
 </p>
 
-Currently learning and practicing:
+---
 
-`Machine Learning` `Deep Learning` `CNN` `RNN` `KNN` `SVM` `Naive Bayes` `Decision Trees` `Linear Regression`
+# 🤖 AI & Machine Learning
 
-### Tools & Platforms
+I'm currently building my understanding of **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
-</p>
+### Topics I'm learning and practicing
+
+* Machine Learning fundamentals
+* Linear Regression
+* K-Nearest Neighbors
+* Support Vector Machines
+* Naive Bayes
+* Decision Trees
+* CNN
+* RNN
+* Sequence Modelling
+* Deep Learning
+* Model evaluation and classification
+
+### Technologies
+
+`Python` `Pandas` `TensorFlow` `Machine Learning` `Deep Learning`
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-I regularly practice **Data Structures and Algorithms** to improve my problem-solving and interview preparation.
+I regularly practice **DSA and problem solving** to improve my algorithmic thinking and prepare for software engineering interviews.
 
 ### Topics
 
-* Arrays
-* Strings
-* Linked Lists
-* Stack & Queue
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Sorting
-* Hashing
-* Trees
-* Graphs
-* Recursion
-* Dynamic Programming
+```text
+Arrays
+Strings
+Linked Lists
+Stacks & Queues
+Hashing
+Binary Search
+Sorting
+Two Pointers
+Sliding Window
+Recursion
+Trees
+Graphs
+Dynamic Programming
+```
 
 ### Problems I've Practiced
 
@@ -250,13 +285,13 @@ I regularly practice **Data Structures and Algorithms** to improve my problem-so
 * Binary Search
 * Linked List Problems
 
-🔗 **LeetCode:** Add your actual LeetCode profile link here
+🔗 **LeetCode:** Add your actual LeetCode profile URL
 
 ---
 
-# 📚 Computer Science Knowledge
+# 📚 Computer Science
 
-I am currently studying and strengthening my understanding of:
+I'm continuously strengthening my knowledge of:
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -271,53 +306,81 @@ I am currently studying and strengthening my understanding of:
 
 ---
 
-# 🏆 Experience & Achievements
-
-* 🎓 Completed Diploma in Computer Engineering with **89.09%**
-* 💼 Completed Web Development Internship at **NPIT Solution**
-* 🚀 Developed multiple academic and real-world projects
-* 🧠 Actively practicing Data Structures & Algorithms
-* 🤖 Currently learning Machine Learning & Deep Learning
-* 💻 Building full-stack web applications
-* 🏗️ Working on modular software architecture and real-world applications
-
----
-
-# 📊 GitHub Stats
+# 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh6070&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh6070&theme=tokyonight" alt="GitHub Streak"/>
+| 🎯 | Achievement                                    |
+| -- | ---------------------------------------------- |
+| 🎓 | B.Tech Computer Science & Design — YCCE Nagpur |
+| 📊 | Current B.Tech CGPA — **8.5 / 10**             |
+| 🎓 | Diploma in Computer Engineering — **89.09%**   |
+| 💼 | Web Development Internship — NPIT Solution     |
+| 🚀 | Built and deployed real-world web applications |
+| 🧠 | Active DSA & problem-solving practice          |
+| 🤖 | Currently learning AI, ML & Deep Learning      |
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌱 Currently Learning
+
+```text
+├── Advanced Data Structures & Algorithms
+├── Full-Stack Web Development
+├── Backend Development
+├── REST APIs
+├── Database Design
+├── Machine Learning
+├── Deep Learning
+└── Software Engineering
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh6070&theme=tokyo-night" alt="Shubham's Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh6070&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh6070&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 📈 Contribution Activity
 
-<p align="left">
-  <a href="https://linkedin.com/in/shubham-sonawane-b85949284">
-    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Sonawane-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shubh6070">
-    <img src="https://img.shields.io/badge/GitHub-shubh6070-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh6070&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-<h3 align="center">💡 "Code. Learn. Build. Improve. Repeat."</h3>
+# 🤝 Let's Connect
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+
+<a href="https://linkedin.com/in/shubham-sonawane-b85949284">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/shubh6070">
+  <img src="https://img.shields.io/badge/GitHub-@shubh6070-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://poultry-farm-business.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Project-2ea44f?style=for-the-badge" alt="Portfolio Project"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">💡 Code • Learn • Build • Improve</h3>
+
+<p align="center">
+  Thanks for visiting my GitHub profile! ⭐
 </p>
