@@ -87,29 +87,49 @@ Recognized with **2nd Prize at NPIT Solution** for internship performance and pr
 # 🚀 Featured Projects
 
 <p align="center">
-  <i>Projects that demonstrate my development skills and practical problem-solving experience.</i>
+  <i>Building practical web applications and solving real-world problems through software development.</i>
+</p>
+
+---
+
+## 🌐 ProjectHub — Project Showcase Platform
+
+A web platform designed to showcase development projects, share live demos, and help developers present their work in one place.
+
+### ✨ Key Features
+
+- 🚀 Showcase projects with descriptions and technologies
+- 🌐 Add live demo and source code links
+- 🖼️ Display project screenshots
+- 📂 Organize and explore projects
+- 📱 Responsive user interface
+- ☁️ Live deployment
+
+### 🛠️ Tech Stack
+
+`JavaScript` `React` `Web Development` `Vercel`
+
+<p>
+  <a href="https://projecthub-frontend-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20ProjectHub-2ea44f?style=for-the-badge" alt="ProjectHub Live Demo"/>
+  </a>
 </p>
 
 ---
 
 ## 🐔 Poultry Farm Business
 
-### 🌐 Live Production Website
+A responsive poultry-farm business website showcasing poultry products, services, training programs, and customer enquiries.
 
-A modern poultry-farm business website developed to showcase poultry products, birds, training programs, services, and customer enquiries through a professional and responsive web experience.
+### ✨ Key Features
 
-### ✨ Features
-
-* 🐓 Poultry bird & product showcase
-* 🥚 Product information and pricing
-* 📦 Product availability
-* 💬 WhatsApp enquiry & ordering
-* 🎓 Poultry farming training workshops
-* 🖼️ Farm gallery
-* ⭐ Customer testimonials
-* ❓ FAQ section
-* 📱 Responsive design
-* 🌐 Production deployment
+- 🐓 Poultry bird and product showcase
+- 🥚 Product information and pricing
+- 📦 Product availability
+- 💬 WhatsApp enquiries and ordering
+- 🎓 Poultry farming training workshops
+- 🖼️ Farm gallery and customer testimonials
+- 📱 Responsive design
 
 ### 🛠️ Tech Stack
 
@@ -119,7 +139,6 @@ A modern poultry-farm business website developed to showcase poultry products, b
   <a href="https://poultry-farm-business.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Poultry Farm Live Demo"/>
   </a>
-
   <a href="https://github.com/shubh6070/poultry-farm-business" target="_blank">
     <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" alt="Poultry Farm Source Code"/>
   </a>
@@ -129,25 +148,23 @@ A modern poultry-farm business website developed to showcase poultry products, b
 
 ## 🧪 LabNova Cloud
 
-### Laboratory Management Web Application
+A web-based laboratory management application focused on organizing laboratory workflows through a centralized digital platform.
 
-A web-based laboratory management project focused on organizing laboratory workflows through a centralized digital application.
+### ✨ Key Features
 
-### ✨ Key Areas
-
-* 🔐 Authentication and user access
-* 🏥 Laboratory workflow management
-* 🗂️ Structured data management
-* 🔌 Backend API integration
-* 🗄️ Database-driven architecture
-* ☁️ Cloud deployment
+- 🔐 Authentication and user access
+- 🏥 Laboratory workflow management
+- 🗂️ Structured data management
+- 🔌 Backend API integration
+- 🗄️ Database-driven architecture
+- ☁️ Cloud deployment
 
 ### 🛠️ Tech Stack
 
 `React` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API` `Render`
 
 <p>
-  <a href="https://labnova-cloud.onrender.com" target="_blank">
+  <a href="https://labnova-cloud.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-LabNova%20Cloud-0A7BFF?style=for-the-badge" alt="LabNova Live Demo"/>
   </a>
 </p>
@@ -156,20 +173,18 @@ A web-based laboratory management project focused on organizing laboratory workf
 
 ## 🍽️ Eatery Elevate
 
-### Online Restaurant Platform
+An online restaurant platform developed during my web development internship at **NPIT Solution**.
 
-An online restaurant platform developed during my Web Development Internship at **NPIT Solution**.
+### ✨ Key Features
 
-### ✨ Features
+- 🍕 Restaurant menu management
+- 🛒 Online ordering workflow
+- 🗄️ Database integration
+- ⚙️ Backend functionality
+- 📱 Responsive web interface
+- 🔄 Dynamic content
 
-* 🍕 Restaurant menu management
-* 🛒 Ordering workflow
-* 🗄️ Database integration
-* ⚙️ Backend functionality
-* 📱 Responsive web interface
-* 🔄 Dynamic content
-
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
@@ -177,17 +192,17 @@ An online restaurant platform developed during my Web Development Internship at 
 
 ## 🎓 Student Result Management System
 
-A web-based application designed to manage student result information and generate printable result documents.
+A web application for managing student result information and generating printable result documents.
 
-### ✨ Features
+### ✨ Key Features
 
-* Student information management
-* Result management
-* Database integration
-* Result generation
-* Printable PDF documents
+- Student information management
+- Result management
+- Database integration
+- Result generation
+- Printable PDF documents
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `PHP` `MySQL` `HTML` `JavaScript` `TCPDF`
 
@@ -195,13 +210,11 @@ A web-based application designed to manage student result information and genera
 
 ## 🍕 Pizza Ordering & Billing System
 
-A software project designed to manage pizza orders and billing operations.
+A software application designed to manage pizza orders and billing operations.
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `Java` `MySQL`
-
----
 
 # 💻 Technical Skills
 
