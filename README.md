@@ -254,35 +254,7 @@ A software application designed to manage pizza orders and billing operations.
 
 I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for software engineering interviews.
 
-### Topics
 
-```text
-Arrays
-Strings
-Linked Lists
-Stacks & Queues
-Hashing
-Binary Search
-Sorting
-Two Pointers
-Sliding Window
-Recursion
-Trees
-Graphs
-Dynamic Programming
-```
-
-### Problems Practiced
-
-* Two Sum
-* Container With Most Water
-* Best Time to Buy and Sell Stock
-* Longest Palindromic Substring
-* Median of Two Sorted Arrays
-* Majority Element
-* Maximum Subarray
-* Binary Search
-* Linked List Problems
 
 🔗 **LeetCode:** Add your actual LeetCode profile URL
 
